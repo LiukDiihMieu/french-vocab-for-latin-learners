@@ -1,0 +1,1199 @@
+- index: 1
+  french: temps
+  english: "time; weather"
+  latin: tempus
+  english_cognate: "tempo, temporary"
+
+- index: 2
+  french: jour
+  english: "day"
+  latin: diurnum
+  english_cognate: "diurnal, journal"
+
+- index: 3
+  french: an
+  english: "year"
+  latin: annus
+  english_cognate: annual
+
+- index: 4
+  french: site
+  english: "site; location"
+  latin: situs
+  english_cognate: site
+
+- index: 5
+  french: jeu
+  english: "game"
+  latin: iocus
+  english_cognate: "joke, jocular"
+
+- index: 6
+  french: "foi|fois"
+  english: "faith; time, occasion"
+  latin: "fides (foi); vicis (fois)"
+  english_cognate: "fidelity"
+
+- index: 7
+  french: monde
+  english: "world"
+  latin: mundus
+  english_cognate: mundane
+
+- index: 8
+  french: année
+  english: "year"
+  latin: annata
+  english_cognate: annual
+
+- index: 9
+  french: vie
+  english: "life"
+  latin: vita
+  english_cognate: vital
+
+- index: 10
+  french: chose
+  english: "thing"
+  latin: causa
+  english_cognate: cause
+
+- index: 11
+  french: homme
+  english: "man"
+  latin: homo
+  english_cognate: "human, homicide"
+
+- index: 12
+  french: cas
+  english: "case; situation"
+  latin: casus
+  english_cognate: case
+
+- index: 13
+  french: ligne
+  english: "line"
+  latin: linea
+  english_cognate: "line, linear"
+
+- index: 14
+  french: pays
+  english: "country"
+  latin: pagus
+  english_cognate: "pagan (same root), peasant"
+
+- index: 15
+  french: travail
+  english: "work"
+  latin: tripalium
+  english_cognate: "travail, travel (etymological)"
+
+- index: 16
+  french: enfant
+  english: "child"
+  latin: infans
+  english_cognate: infant
+
+- index: 17
+  french: service
+  english: "service"
+  latin: servitium
+  english_cognate: "service, servant"
+
+- index: 18
+  french: France
+  english: "France"
+  latin: Francia
+  english_cognate: France
+
+- index: 19
+  french: question
+  english: "question"
+  latin: quaestio
+  english_cognate: question
+
+- index: 20
+  french: femme
+  english: "woman; wife"
+  latin: femina
+  english_cognate: female
+
+- index: 21
+  french: place
+  english: "place; plaza; position"
+  latin: platea
+  english_cognate: "place, plaza"
+
+- index: 22
+  french: effet
+  english: "effect"
+  latin: effectus
+  english_cognate: effect
+
+- index: 23
+  french: point
+  english: "point; dot"
+  latin: punctum
+  english_cognate: "point, puncture"
+
+- index: 24
+  french: maison
+  english: "house"
+  latin: mansio
+  english_cognate: mansion
+
+- index: 25
+  french: casino
+  english: "casino"
+  latin: casa
+  english_cognate: casino
+
+- index: 26
+  french: moment
+  english: "moment"
+  latin: momentum
+  english_cognate: moment
+
+- index: 27
+  french: groupe
+  english: "group"
+  latin: ""
+  english_cognate: group
+
+- index: 28
+  french: besoin
+  english: "need"
+  latin: ""
+  english_cognate: ""
+
+- index: 29
+  french: entreprise
+  english: "company; enterprise"
+  latin: prehendere
+  english_cognate: enterprise
+
+- index: 30
+  french: "moi|mois"
+  english: "me; month"
+  latin: "ego (moi); mensis (mois)"
+  english_cognate: "ego; menstrual"
+
+- index: 31
+  french: suite
+  english: "sequence; continuation"
+  latin: sequi
+  english_cognate: "suite, sequel, sequence"
+
+- index: 32
+  french: web
+  english: "web"
+  latin: ""
+  english_cognate: web
+
+- index: 33
+  french: lieu
+  english: "place"
+  latin: locus
+  english_cognate: location
+
+- index: 34
+  french: partie
+  english: "part; section"
+  latin: pars
+  english_cognate: part
+
+- index: 35
+  french: heure
+  english: "hour"
+  latin: hora
+  english_cognate: hour
+
+- index: 36
+  french: droit
+  english: "right; law"
+  latin: directum
+  english_cognate: direct
+
+- index: 37
+  french: part
+  english: "part; share"
+  latin: pars
+  english_cognate: part
+
+- index: 38
+  french: prix
+  english: "price; prize"
+  latin: pretium
+  english_cognate: "price, prize, precious"
+
+- index: 39
+  french: niveau
+  english: "level"
+  latin: libella
+  english_cognate: level
+
+- index: 40
+  french: article
+  english: "article"
+  latin: articulus
+  english_cognate: article
+
+- index: 41
+  french: raison
+  english: "reason"
+  latin: ratio
+  english_cognate: "reason, ratio"
+
+- index: 42
+  french: projet
+  english: "project"
+  latin: projectum
+  english_cognate: project
+
+- index: 43
+  french: problème
+  english: "problem"
+  latin: problema
+  english_cognate: problem
+
+- index: 44
+  french: système
+  english: "system"
+  latin: systema
+  english_cognate: system
+
+- index: 45
+  french: produit
+  english: "product"
+  latin: productum
+  english_cognate: product
+
+- index: 46
+  french: main
+  english: "hand"
+  latin: manus
+  english_cognate: "manual, manicure"
+
+- index: 47
+  french: information
+  english: "information"
+  latin: informatio
+  english_cognate: information
+
+- index: 48
+  french: nombre
+  english: "number"
+  latin: numerus
+  english_cognate: "number, numeral"
+
+- index: 49
+  french: état
+  english: "state; condition"
+  latin: status
+  english_cognate: state
+
+- index: 50
+  french: police
+  english: "police"
+  latin: politia < Greek πολιτεία
+  english_cognate: police
+
+- index: 51
+  french: eau
+  english: "water"
+  latin: aqua
+  english_cognate: aquatic
+
+- index: 52
+  french: monde
+  english: "world"
+  latin: mundus
+  english_cognate: mundane
+
+- index: 53
+  french: ville
+  english: "city; town"
+  latin: villa
+  english_cognate: villa
+
+- index: 54
+  french: nom
+  english: "name"
+  latin: nomen
+  english_cognate: nominal
+
+- index: 55
+  french: ordre
+  english: "order"
+  latin: ordo
+  english_cognate: order
+
+- index: 56
+  french: face
+  english: "face; surface"
+  latin: facies
+  english_cognate: face
+
+- index: 57
+  french: région
+  english: "region"
+  latin: regio
+  english_cognate: region
+
+- index: 58
+  french: nombre
+  english: "number"
+  latin: numerus
+  english_cognate: number
+
+- index: 59
+  french: loi
+  english: "law"
+  latin: lex
+  english_cognate: legal
+
+- index: 60
+  french: rapport
+  english: "report; relation"
+  latin: rapportare
+  english_cognate: report
+
+- index: 61
+  french: famille
+  english: "family"
+  latin: familia
+  english_cognate: family
+
+- index: 62
+  french: guerre
+  english: "war"
+  latin: ""
+  english_cognate: ""
+
+- index: 63
+  french: soir
+  english: "evening"
+  latin: serus (possible)
+  english_cognate: ""
+
+- index: 64
+  french: histoire
+  english: "history; story"
+  latin: historia < Greek
+  english_cognate: history
+
+- index: 65
+  french: société
+  english: "society"
+  latin: societas
+  english_cognate: society
+
+- index: 66
+  french: croissance
+  english: "growth"
+  latin: crescere (root)
+  english_cognate: crescendo
+
+- index: 67
+  french: chef
+  english: "chief; leader; boss"
+  latin: caput
+  english_cognate: chief
+
+- index: 68
+  french: langue
+  english: "language; tongue"
+  latin: lingua
+  english_cognate: lingual
+
+- index: 69
+  french: pays
+  english: "country"
+  latin: pagus
+  english_cognate: peasant (same root)
+
+- index: 70
+  french: effet
+  english: "effect"
+  latin: effectus
+  english_cognate: effect
+
+- index: 71
+  french: fille
+  english: "girl; daughter"
+  latin: ""
+  english_cognate: ""
+
+- index: 72
+  french: besoin
+  english: "need"
+  latin: ""
+  english_cognate: ""
+
+- index: 73
+  french: sentiment
+  english: "feeling"
+  latin: sentire
+  english_cognate: sentiment
+
+- index: 74
+  french: loi
+  english: "law"
+  latin: lex
+  english_cognate: legal
+
+- index: 75
+  french: voie
+  english: "way; route"
+  latin: via
+  english_cognate: via
+
+- index: 76
+  french: forme
+  english: "form; shape"
+  latin: forma
+  english_cognate: form
+
+- index: 77
+  french: présence
+  english: "presence"
+  latin: praesentia
+  english_cognate: presence
+
+- index: 78
+  french: force
+  english: "force; strength"
+  latin: fortis
+  english_cognate: force
+
+- index: 79
+  french: situation
+  english: "situation"
+  latin: situs
+  english_cognate: situation
+
+- index: 80
+  french: région
+  english: "region"
+  latin: regio
+  english_cognate: region
+
+- index: 81
+  french: qualité
+  english: "quality"
+  latin: qualitas
+  english_cognate: quality
+
+- index: 82
+  french: prix
+  english: "price; cost"
+  latin: pretium
+  english_cognate: price
+
+- index: 83
+  french: rôle
+  english: "role"
+  latin: rotulus (via French)
+  english_cognate: role
+
+- index: 84
+  french: occasion
+  english: "opportunity; occasion"
+  latin: occasio
+  english_cognate: occasion
+
+- index: 85
+  french: cœur
+  english: "heart"
+  latin: cor
+  english_cognate: cordial
+
+- index: 86
+  french: pièce
+  english: "piece; room"
+  latin: pettia (Vulgar Latin)
+  english_cognate: piece
+
+- index: 87
+  french: lettre
+  english: "letter"
+  latin: littera
+  english_cognate: literature
+
+- index: 88
+  french: droit
+  english: "right; law"
+  latin: directum
+  english_cognate: direct
+
+- index: 89
+  french: service
+  english: "service"
+  latin: servitium
+  english_cognate: service
+
+- index: 90
+  french: rue
+  english: "street"
+  latin: ruga (debated)
+  english_cognate: rugose (distant)
+
+- index: 91
+  french: visage
+  english: "face"
+  latin: visus (related)
+  english_cognate: visage (rare)
+
+- index: 92
+  french: attention
+  english: "attention"
+  latin: attentio
+  english_cognate: attention
+
+- index: 93
+  french: sujet
+  english: "subject; topic"
+  latin: subjectum
+  english_cognate: subject
+
+- index: 94
+  french: terme
+  english: "term; end"
+  latin: terminus
+  english_cognate: term
+
+- index: 95
+  french: besoin
+  english: "need"
+  latin: ""
+  english_cognate: ""
+
+- index: 96
+  french: base
+  english: "base; foundation"
+  latin: basis < Greek
+  english_cognate: base
+
+- index: 97
+  french: année
+  english: "year"
+  latin: annata
+  english_cognate: annual
+
+- index: 98
+  french: matière
+  english: "material; subject; matter"
+  latin: materia
+  english_cognate: material
+
+- index: 99
+  french: air
+  english: "air"
+  latin: aer
+  english_cognate: aeration
+
+- index: 100
+  french: partie
+  english: "part; portion"
+  latin: pars
+  english_cognate: part
+
+- index: 101
+  french: eau
+  english: "water"
+  latin: aqua
+  english_cognate: aquatic
+
+- index: 102
+  french: classe
+  english: "class; classroom"
+  latin: classis
+  english_cognate: class
+
+- index: 103
+  french: projet
+  english: "project"
+  latin: projectum
+  english_cognate: project
+
+- index: 104
+  french: nuit
+  english: "night"
+  latin: noctem
+  english_cognate: nocturnal
+
+- index: 105
+  french: objet
+  english: "object"
+  latin: obiectum
+  english_cognate: object
+
+- index: 106
+  french: bout
+  english: "end; tip"
+  latin: ""
+  english_cognate: ""
+
+- index: 107
+  french: moyen
+  english: "means; way; medium"
+  latin: medianus (root)
+  english_cognate: median
+
+- index: 108
+  french: accord
+  english: "agreement"
+  latin: accordare
+  english_cognate: accord
+
+- index: 109
+  french: programme
+  english: "program"
+  latin: programma < Greek
+  english_cognate: program
+
+- index: 110
+  french: majorité
+  english: "majority"
+  latin: maioritas
+  english_cognate: majority
+
+- index: 111
+  french: service
+  english: "service"
+  latin: servitium
+  english_cognate: service
+
+- index: 112
+  french: guerre
+  english: "war"
+  latin: ""
+  english_cognate: ""
+
+- index: 113
+  french: corps
+  english: "body"
+  latin: corpus
+  english_cognate: corpse
+
+- index: 114
+  french: côté
+  english: "side"
+  latin: costatus (root)
+  english_cognate: coast (distant)
+
+- index: 115
+  french: armée
+  english: "army"
+  latin: armata
+  english_cognate: army (through French)
+
+- index: 116
+  french: musique
+  english: "music"
+  latin: musica
+  english_cognate: music
+
+- index: 117
+  french: mesure
+  english: "measure"
+  latin: mensura
+  english_cognate: measure
+
+- index: 118
+  french: droite
+  english: "right (side)"
+  latin: directum
+  english_cognate: direct
+
+- index: 119
+  french: scène
+  english: "stage; scene"
+  latin: scena < Greek
+  english_cognate: scene
+
+- index: 120
+  french: liste
+  english: "list"
+  latin: lista (medieval)
+  english_cognate: list
+
+- index: 121
+  french: route
+  english: "road; route"
+  latin: rupta (via ruptura)
+  english_cognate: route
+
+- index: 122
+  french: chance
+  english: "luck; chance"
+  latin: cadentia (root for fall)
+  english_cognate: chance
+
+- index: 123
+  french: pays
+  english: "country"
+  latin: pagus
+  english_cognate: peasant (same root)
+
+- index: 124
+  french: accueil
+  english: "welcome; reception"
+  latin: ""
+  english_cognate: ""
+
+- index: 125
+  french: compagnie
+  english: "company"
+  latin: panis (root for companion)
+  english_cognate: companion
+
+- index: 126
+  french: titre
+  english: "title"
+  latin: titulus
+  english_cognate: title
+
+- index: 127
+  french: sol
+  english: "soil; ground; floor"
+  latin: solum
+  english_cognate: sole (ground)
+
+- index: 128
+  french: action
+  english: "action"
+  latin: actio
+  english_cognate: action
+
+- index: 129
+  french: créateur
+  english: "creator; maker"
+  latin: creator
+  english_cognate: creator
+
+- index: 130
+  french: construction
+  english: "construction"
+  latin: constructio
+  english_cognate: construction
+
+- index: 131
+  french: effet
+  english: "effect"
+  latin: effectus
+  english_cognate: effect
+
+- index: 132
+  french: sécurité
+  english: "security; safety"
+  latin: securitas
+  english_cognate: security
+
+- index: 133
+  french: technologie
+  english: "technology"
+  latin: technologia < Greek
+  english_cognate: technology
+
+- index: 134
+  french: sens
+  english: "sense; direction"
+  latin: sensus
+  english_cognate: sense
+
+- index: 135
+  french: situation
+  english: "situation"
+  latin: situs
+  english_cognate: situation
+
+- index: 136
+  french: couleur
+  english: "color"
+  latin: color
+  english_cognate: color
+
+- index: 137
+  french: chef
+  english: "chief; head"
+  latin: caput
+  english_cognate: chief
+
+- index: 138
+  french: erreur
+  english: "error"
+  latin: error
+  english_cognate: error
+
+- index: 139
+  french: magasin
+  english: "store; shop"
+  latin: ""
+  english_cognate: magazine (borrowed together)
+
+- index: 140
+  french: fenêtre
+  english: "window"
+  latin: fenestra
+  english_cognate: defenestrate
+
+- index: 141
+  french: texte
+  english: "text"
+  latin: textus
+  english_cognate: text
+
+- index: 142
+  french: style
+  english: "style"
+  latin: stilus
+  english_cognate: style
+
+- index: 143
+  french: jeu
+  english: "game"
+  latin: iocus
+  english_cognate: joke
+
+- index: 144
+  french: règle
+  english: "rule; ruler"
+  latin: regula
+  english_cognate: regulation
+
+- index: 145
+  french: poste
+  english: "post; station; job"
+  latin: positus
+  english_cognate: position (related)
+
+- index: 146
+  french: main-d’œuvre
+  english: "workforce; labor"
+  latin: manus + opera
+  english_cognate: manual, operate
+
+- index: 147
+  french: degré
+  english: "degree; level"
+  latin: gradus (step)
+  english_cognate: grade, degree
+
+- index: 148
+  french: région
+  english: "region"
+  latin: regio
+  english_cognate: region
+
+- index: 149
+  french: société
+  english: "society"
+  latin: societas
+  english_cognate: society
+
+- index: 150
+  french: entreprise
+  english: "company; enterprise"
+  latin: prehendere
+  english_cognate: enterprise
+
+- index: 151
+  french: écran
+  english: "screen"
+  latin: ""
+  english_cognate: ""
+
+- index: 152
+  french: téléphone
+  english: "telephone"
+  latin: telephonium < Greek
+  english_cognate: telephone
+
+- index: 153
+  french: discussion
+  english: "discussion"
+  latin: discussio
+  english_cognate: discussion
+
+- index: 154
+  french: appareil
+  english: "device; appliance"
+  latin: apparare (root)
+  english_cognate: apparatus (related)
+
+- index: 155
+  french: page
+  english: "page"
+  latin: pagina
+  english_cognate: page
+
+- index: 156
+  french: carte
+  english: "map; card"
+  latin: charta
+  english_cognate: card, chart
+
+- index: 157
+  french: papier
+  english: "paper"
+  latin: papyrus < Greek
+  english_cognate: paper
+
+- index: 158
+  french: police
+  english: "police"
+  latin: politia < Greek
+  english_cognate: police
+
+- index: 159
+  french: assurance
+  english: "insurance; assurance"
+  latin: securus (root)
+  english_cognate: assurance
+
+- index: 160
+  french: expression
+  english: "expression"
+  latin: expressio
+  english_cognate: expression
+
+- index: 161
+  french: étude
+  english: "study"
+  latin: studium
+  english_cognate: study
+
+- index: 162
+  french: compte
+  english: "account; count"
+  latin: computare
+  english_cognate: compute
+
+- index: 163
+  french: contrat
+  english: "contract"
+  latin: contractus
+  english_cognate: contract
+
+- index: 164
+  french: charge
+  english: "charge; load"
+  latin: carricare (via Latin carrus)
+  english_cognate: cargo (related)
+
+- index: 165
+  french: source
+  english: "source; spring"
+  latin: surgere (root)
+  english_cognate: source
+
+- index: 166
+  french: poste
+  english: "post; job; position"
+  latin: positus
+  english_cognate: position (related)
+
+- index: 167
+  french: commission
+  english: "commission; committee"
+  latin: commissio
+  english_cognate: commission
+
+- index: 168
+  french: vue
+  english: "view; sight"
+  latin: visus
+  english_cognate: vision (related)
+
+- index: 169
+  french: cause
+  english: "cause; reason"
+  latin: causa
+  english_cognate: cause
+
+- index: 170
+  french: rapport
+  english: "report; relation"
+  latin: rapportare
+  english_cognate: report
+
+- index: 171
+  french: secours
+  english: "help; aid"
+  latin: succursus
+  english_cognate: succor
+
+- index: 172
+  french: intérêt
+  english: "interest"
+  latin: interesse
+  english_cognate: interest
+
+- index: 173
+  french: rencontre
+  english: "encounter; meeting"
+  latin: in contra (root)
+  english_cognate: encounter
+
+- index: 174
+  french: effet
+  english: "effect"
+  latin: effectus
+  english_cognate: effect
+
+- index: 175
+  french: maladie
+  english: "illness; disease"
+  latin: male habitus (root)
+  english_cognate: malady
+
+- index: 176
+  french: médecin
+  english: "doctor"
+  latin: medicus
+  english_cognate: medical
+
+- index: 177
+  french: occasion
+  english: "opportunity; chance"
+  latin: occasio
+  english_cognate: occasion
+
+- index: 178
+  french: public
+  english: "public"
+  latin: publicus
+  english_cognate: public
+
+- index: 179
+  french: relation
+  english: "relationship"
+  latin: relatio
+  english_cognate: relation
+
+- index: 180
+  french: situation
+  english: "situation"
+  latin: situs
+  english_cognate: situation
+
+- index: 181
+  french: intérêt
+  english: "interest"
+  latin: interesse
+  english_cognate: interest
+
+- index: 182
+  french: charge
+  english: "charge; duty"
+  latin: carricare
+  english_cognate: cargo (related)
+
+- index: 183
+  french: création
+  english: "creation"
+  latin: creatio
+  english_cognate: creation
+
+- index: 184
+  french: terrain
+  english: "ground; land; terrain"
+  latin: terrenum < terra
+  english_cognate: terrain
+
+- index: 185
+  french: bord
+  english: "edge; border"
+  latin: bordus (unclear)
+  english_cognate: border (borrowed from French)
+
+- index: 186
+  french: mesure
+  english: "measure"
+  latin: mensura
+  english_cognate: measure
+
+- index: 187
+  french: contenu
+  english: "content"
+  latin: contentum
+  english_cognate: content
+
+- index: 188
+  french: valeur
+  english: "value"
+  latin: valorem
+  english_cognate: value
+
+- index: 189
+  french: espace
+  english: "space"
+  latin: spatium
+  english_cognate: space
+
+- index: 190
+  french: courant
+  english: "current; flow"
+  latin: currere (root)
+  english_cognate: current
+
+- index: 191
+  french: matériel
+  english: "material; equipment"
+  latin: materia
+  english_cognate: material
+
+- index: 192
+  french: action
+  english: "action"
+  latin: actio
+  english_cognate: action
+
+- index: 193
+  french: valeur
+  english: "value"
+  latin: valorem
+  english_cognate: value
+
+- index: 194
+  french: sécurité
+  english: "security; safety"
+  latin: securitas
+  english_cognate: security
+
+- index: 195
+  french: rôle
+  english: "role"
+  latin: rotulus
+  english_cognate: role
+
+- index: 196
+  french: mer
+  english: "sea"
+  latin: mare
+  english_cognate: marine
+
+- index: 197
+  french: île
+  english: "island"
+  latin: insula
+  english_cognate: insular
+
+- index: 198
+  french: victoire
+  english: "victory"
+  latin: victoria
+  english_cognate: victory
+
+- index: 199
+  french: affaire
+  english: "business; matter"
+  latin: ad facere (root)
+  english_cognate: affair
+
+- index: 200
+  french: fin
+  english: "end"
+  latin: finis
+  english_cognate: finish

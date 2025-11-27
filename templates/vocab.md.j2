@@ -1,0 +1,15 @@
+---
+title: "French Vocabulary for Latin Learners"
+author: "Liuk Diih Mieu"
+date: "\\today"
+---
+
+# Top 200 French Nouns
+
+This list is ordered by frequency (index 1 = most frequent in this set).
+
+| # | French | English | Latin | English cognate(s) |
+|---|--------|---------|-------|--------------------|
+{% for e in entries -%}
+| {{ e.index }} | {{ e.french }} | {{ e.english }} | {{ e.latin or "" }} | {{ e.english_cognate or "" }} |
+{% endfor %}
