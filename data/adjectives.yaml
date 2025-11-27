@@ -1,0 +1,1198 @@
+- index: 1
+  french: autre
+  english: "other; another"
+  latin: alter
+  english_cognate: alternate
+
+- index: 2
+  french: nouveau
+  english: "new"
+  latin: novus
+  english_cognate: novel
+
+- index: 3
+  french: grand
+  english: "big; tall; great"
+  latin: grandis
+  english_cognate: grand
+
+- index: 4
+  french: bon
+  english: "good"
+  latin: bonus
+  english_cognate: bonus
+
+- index: 5
+  french: petit
+  english: "small; little"
+  latin: "pittittus (Vulgar Latin)"
+  english_cognate: petty
+
+- index: 6
+  french: même
+  english: "same"
+  latin: metipsimus
+  english_cognate: ""
+
+- index: 7
+  french: dernier
+  english: "last; final"
+  latin: ""
+  english_cognate: ""
+
+- index: 8
+  french: seul
+  english: "alone; only"
+  latin: solus
+  english_cognate: solo
+
+- index: 9
+  french: beau
+  english: "beautiful; handsome; nice"
+  latin: bellus
+  english_cognate: belle (as in *belle époque*)
+
+- index: 10
+  french: jeune
+  english: "young"
+  latin: iuvenis
+  english_cognate: juvenile
+
+- index: 11
+  french: meilleur
+  english: "better; best"
+  latin: melior
+  english_cognate: ameliorate
+
+- index: 12
+  french: français
+  english: "French"
+  latin: Franciscus
+  english_cognate: French
+
+- index: 13
+  french: différent
+  english: "different"
+  latin: differens
+  english_cognate: different
+
+- index: 14
+  french: nombreux
+  english: "numerous; many"
+  latin: numerosus
+  english_cognate: numerous
+
+- index: 15
+  french: important
+  english: "important"
+  latin: importans
+  english_cognate: important
+
+- index: 16
+  french: juste
+  english: "fair; just; correct"
+  latin: iustus
+  english_cognate: just
+
+- index: 17
+  french: vrai
+  english: "true; real"
+  latin: verus
+  english_cognate: verity
+
+- index: 18
+  french: politique
+  english: "political"
+  latin: politicus
+  english_cognate: political
+
+- index: 19
+  french: propre
+  english: "own; clean"
+  latin: proprius
+  english_cognate: proper
+
+- index: 20
+  french: social
+  english: "social"
+  latin: socialis
+  english_cognate: social
+
+- index: 21
+  french: possible
+  english: "possible"
+  latin: possibilis
+  english_cognate: possible
+
+- index: 22
+  french: général
+  english: "general"
+  latin: generalis
+  english_cognate: general
+
+- index: 23
+  french: national
+  english: "national"
+  latin: nationalis
+  english_cognate: national
+
+- index: 24
+  french: simple
+  english: "simple"
+  latin: simplex
+  english_cognate: simple
+
+- index: 25
+  french: plein
+  english: "full"
+  latin: plenus
+  english_cognate: plenty
+
+- index: 26
+  french: gratuit
+  english: "free (of charge)"
+  latin: gratuitus
+  english_cognate: gratuitous
+
+- index: 27
+  french: gros
+  english: "big; thick; fat"
+  latin: grossus
+  english_cognate: gross
+
+- index: 28
+  french: fort
+  english: "strong"
+  latin: fortis
+  english_cognate: fort, fortitude
+
+- index: 29
+  french: haut
+  english: "high; tall"
+  latin: altus
+  english_cognate: altitude
+
+- index: 30
+  french: ancien
+  english: "old; former"
+  latin: ""
+  english_cognate: ancient
+
+- index: 31
+  french: international
+  english: "international"
+  latin: "internationalis (Neo-Latin formation)"
+  english_cognate: international
+
+- index: 32
+  french: principal
+  english: "main; principal"
+  latin: principalis
+  english_cognate: principal
+
+- index: 33
+  french: présent
+  english: "present; current"
+  latin: praesens
+  english_cognate: present
+
+- index: 34
+  french: sûr
+  english: "sure; safe"
+  latin: securus
+  english_cognate: secure
+
+- index: 35
+  french: prochain
+  english: "next; upcoming"
+  latin: proximus
+  english_cognate: proximity (related)
+
+- index: 36
+  french: difficile
+  english: "difficult; hard"
+  latin: difficilis
+  english_cognate: difficult
+
+- index: 37
+  french: européen
+  english: "European"
+  latin: Europaeus
+  english_cognate: European
+
+- index: 38
+  french: humain
+  english: "human"
+  latin: humanus
+  english_cognate: human
+
+- index: 39
+  french: nécessaire
+  english: "necessary"
+  latin: necessarius
+  english_cognate: necessary
+
+- index: 40
+  french: réel
+  english: "real"
+  latin: realis
+  english_cognate: real
+
+- index: 41
+  french: facile
+  english: "easy"
+  latin: facilis
+  english_cognate: facile
+
+- index: 42
+  french: économique
+  english: "economic; economical"
+  latin: oeconomicus
+  english_cognate: economic
+
+- index: 43
+  french: actuel
+  english: "current; present-day"
+  latin: actualis
+  english_cognate: actual
+
+- index: 44
+  french: disponible
+  english: "available"
+  latin: ""
+  english_cognate: ""
+
+- index: 45
+  french: particulier
+  english: "particular; special"
+  latin: particularis
+  english_cognate: particular
+
+- index: 46
+  french: blanc
+  english: "white"
+  latin: ""
+  english_cognate: blank
+
+- index: 47
+  french: local
+  english: "local"
+  latin: localis
+  english_cognate: local
+
+- index: 48
+  french: noir
+  english: "black; dark"
+  latin: niger
+  english_cognate: Nigeria (same root *nigr-*)
+
+- index: 49
+  french: américain
+  english: "American"
+  latin: Americanus
+  english_cognate: American
+
+- index: 50
+  french: professionnel
+  english: "professional"
+  latin: professionalis
+  english_cognate: professional
+
+- index: 51
+  french: bas
+  english: "low; bottom"
+  latin: bassus
+  english_cognate: bass
+
+- index: 52
+  french: certain
+  english: "certain; sure"
+  latin: certanus < certus
+  english_cognate: certain
+
+- index: 53
+  french: long
+  english: "long"
+  latin: longus
+  english_cognate: long
+
+- index: 54
+  french: spécial
+  english: "special"
+  latin: specialis
+  english_cognate: special
+
+- index: 55
+  french: plein
+  english: "full"
+  latin: plenus
+  english_cognate: plenty
+
+- index: 56
+  french: chaud
+  english: "hot; warm"
+  latin: calidus
+  english_cognate: calorie (related)
+
+- index: 57
+  french: libre
+  english: "free; available"
+  latin: liber
+  english_cognate: liberty, liberal
+
+- index: 58
+  french: clair
+  english: "clear; bright"
+  latin: clarus
+  english_cognate: clear
+
+- index: 59
+  french: gros
+  english: "big; thick; fat"
+  latin: grossus
+  english_cognate: gross
+
+- index: 60
+  french: prêt
+  english: "ready"
+  latin: praestus (possible root)
+  english_cognate: ""
+
+- index: 61
+  french: court
+  english: "short"
+  latin: curtus
+  english_cognate: curt
+
+- index: 62
+  french: moderne
+  english: "modern"
+  latin: modernus
+  english_cognate: modern
+
+- index: 63
+  french: rouge
+  english: "red"
+  latin: rubeus
+  english_cognate: ruby
+
+- index: 64
+  french: heureux
+  english: "happy"
+  latin: augurare (root sense “fortunate”)
+  english_cognate: ""
+
+- index: 65
+  french: étranger
+  english: "foreign; strange"
+  latin: extraneus
+  english_cognate: extraneous (related)
+
+- index: 66
+  french: facile
+  english: "easy"
+  latin: facilis
+  english_cognate: facile
+
+- index: 67
+  french: rapide
+  english: "fast; quick"
+  latin: rapidus
+  english_cognate: rapid
+
+- index: 68
+  french: clair
+  english: "clear"
+  latin: clarus
+  english_cognate: clear
+
+- index: 69
+  french: commun
+  english: "common; shared"
+  latin: communis
+  english_cognate: common, community
+
+- index: 70
+  french: froid
+  english: "cold"
+  latin: frigidus
+  english_cognate: frigid
+
+- index: 71
+  french: sec
+  english: "dry"
+  latin: siccus
+  english_cognate: desiccate
+
+- index: 72
+  french: fort
+  english: "strong"
+  latin: fortis
+  english_cognate: fort, fortitude
+
+- index: 73
+  french: clair
+  english: "clear"
+  latin: clarus
+  english_cognate: clear
+
+- index: 74
+  french: évident
+  english: "obvious; evident"
+  latin: evidens
+  english_cognate: evident
+
+- index: 75
+  french: ancien
+  english: "old; ancient; former"
+  latin: antianus (root)
+  english_cognate: ancient
+
+- index: 76
+  french: rapide
+  english: "fast; rapid"
+  latin: rapidus
+  english_cognate: rapid
+
+- index: 77
+  french: possible
+  english: "possible"
+  latin: possibilis
+  english_cognate: possible
+
+- index: 78
+  french: faible
+  english: "weak"
+  latin: flebilis (possible Romance development)
+  english_cognate: feeble
+
+- index: 79
+  french: meilleur
+  english: "better; best"
+  latin: melior
+  english_cognate: ameliorate
+
+- index: 80
+  french: entier
+  english: "entire; whole"
+  latin: integer
+  english_cognate: integer, integral
+
+- index: 81
+  french: vivant
+  english: "alive; living"
+  latin: vivens
+  english_cognate: vivid (related)
+
+- index: 82
+  french: lourd
+  english: "heavy"
+  latin: lauritus? (uncertain, likely Germanic)
+  english_cognate: ""
+
+- index: 83
+  french: facile
+  english: "easy"
+  latin: facilis
+  english_cognate: facile
+
+- index: 84
+  french: direct
+  english: "direct; straight"
+  latin: directus
+  english_cognate: direct
+
+- index: 85
+  french: noir
+  english: "black; dark"
+  latin: niger
+  english_cognate: Nigeria (same root)
+
+- index: 86
+  french: meilleur
+  english: "better; best"
+  latin: melior
+  english_cognate: ameliorate
+
+- index: 87
+  french: ancien
+  english: "old; former"
+  latin: antianus
+  english_cognate: ancient
+
+- index: 88
+  french: large
+  english: "wide; broad"
+  latin: largus
+  english_cognate: large
+
+- index: 89
+  french: fort
+  english: "strong"
+  latin: fortis
+  english_cognate: fort
+
+- index: 90
+  french: intelligent
+  english: "intelligent; smart"
+  latin: intelligens
+  english_cognate: intelligent
+
+- index: 91
+  french: précieux
+  english: "precious; valuable"
+  latin: pretiosus
+  english_cognate: precious
+
+- index: 92
+  french: riche
+  english: "rich"
+  latin: ricus (possibly Germanic *rīks*)
+  english_cognate: rich
+
+- index: 93
+  french: faible
+  english: "weak"
+  latin: flebilis (possible)
+  english_cognate: feeble
+
+- index: 94
+  french: content
+  english: "content; happy"
+  latin: contentus
+  english_cognate: content
+
+- index: 95
+  french: dangereux
+  english: "dangerous"
+  latin: dominarium (root for danger)
+  english_cognate: danger
+
+- index: 96
+  french: parfait
+  english: "perfect"
+  latin: perfectus
+  english_cognate: perfect
+
+- index: 97
+  french: doux
+  english: "sweet; soft; gentle"
+  latin: dulcis
+  english_cognate: dulcet
+
+- index: 98
+  french: chaud
+  english: "hot; warm"
+  latin: calidus
+  english_cognate: calorie (related)
+
+- index: 99
+  french: unique
+  english: "unique; single"
+  latin: unicus
+  english_cognate: unique
+
+- index: 100
+  french: heureux
+  english: "happy; fortunate"
+  latin: augurare (root sense)
+  english_cognate: ""
+
+- index: 101
+  french: sec
+  english: "dry"
+  latin: siccus
+  english_cognate: desiccate
+
+- index: 102
+  french: lourd
+  english: "heavy"
+  latin: ""
+  english_cognate: ""
+
+- index: 103
+  french: faible
+  english: "weak"
+  latin: flebilis (possible)
+  english_cognate: feeble
+
+- index: 104
+  french: content
+  english: "happy; content"
+  latin: contentus
+  english_cognate: content
+
+- index: 105
+  french: terrible
+  english: "terrible; awful"
+  latin: terribilis
+  english_cognate: terrible
+
+- index: 106
+  french: plein
+  english: "full"
+  latin: plenus
+  english_cognate: plenty
+
+- index: 107
+  french: génial
+  english: "great; brilliant"
+  latin: genius (root)
+  english_cognate: genial, genius
+
+- index: 108
+  french: fameux
+  english: "famous; well-known"
+  latin: famosus
+  english_cognate: famous
+
+- index: 109
+  french: dangereux
+  english: "dangerous"
+  latin: dominarium (source of *danger*)
+  english_cognate: danger, dangerous
+
+- index: 110
+  french: parfait
+  english: "perfect"
+  latin: perfectus
+  english_cognate: perfect
+
+- index: 111
+  french: malade
+  english: "sick; ill"
+  latin: male habitus (folk etymology)
+  english_cognate: malady
+
+- index: 112
+  french: allemand
+  english: "German"
+  latin: Alamanni (tribal name)
+  english_cognate: Almanac (same root)
+
+- index: 113
+  french: rouge
+  english: "red"
+  latin: rubeus
+  english_cognate: ruby
+
+- index: 114
+  french: curieux
+  english: "curious"
+  latin: curiosus
+  english_cognate: curious
+
+- index: 115
+  french: fou
+  english: "crazy; mad"
+  latin: follis (inflated bag, metaphorical)
+  english_cognate: folly
+
+- index: 116
+  french: propre
+  english: "clean; own"
+  latin: proprius
+  english_cognate: proper
+
+- index: 117
+  french: juste
+  english: "just; fair"
+  latin: iustus
+  english_cognate: just
+
+- index: 118
+  french: italien
+  english: "Italian"
+  latin: Italianus
+  english_cognate: Italian
+
+- index: 119
+  french: évident
+  english: "obvious"
+  latin: evidens
+  english_cognate: evident
+
+- index: 120
+  french: vivant
+  english: "alive; living"
+  latin: vivens
+  english_cognate: vivid
+
+- index: 121
+  french: tranquille
+  english: "calm; quiet"
+  latin: tranquillus
+  english_cognate: tranquil
+
+- index: 122
+  french: frais
+  english: "fresh; cool"
+  latin: frigidus (distantly related)
+  english_cognate: fresh (Germanic)
+
+- index: 123
+  french: célèbre
+  english: "famous"
+  latin: celeber
+  english_cognate: celebrate (related)
+
+- index: 124
+  french: gris
+  english: "grey"
+  latin: ""
+  english_cognate: grey (Germanic)
+
+- index: 125
+  french: royal
+  english: "royal"
+  latin: regalis
+  english_cognate: regal, royal
+
+- index: 126
+  french: pauvre
+  english: "poor"
+  latin: pauper
+  english_cognate: pauper
+
+- index: 127
+  french: vivant
+  english: "alive"
+  latin: vivens
+  english_cognate: vivid
+
+- index: 128
+  french: calme
+  english: "calm"
+  latin: cauma (Greek root via Latin)
+  english_cognate: calm
+
+- index: 129
+  french: faux
+  english: "false; wrong"
+  latin: falsus
+  english_cognate: false
+
+- index: 130
+  french: rapide
+  english: "rapid; fast"
+  latin: rapidus
+  english_cognate: rapid
+
+- index: 131
+  french: énorme
+  english: "enormous; huge"
+  latin: enormis
+  english_cognate: enormous
+
+- index: 132
+  french: pareil
+  english: "similar; the same"
+  latin: pariculus (uncertain derivative of *par*)
+  english_cognate: pair, parity (related)
+
+- index: 133
+  french: rond
+  english: "round"
+  latin: rotundus
+  english_cognate: rotund
+
+- index: 134
+  french: doux
+  english: "sweet; gentle; soft"
+  latin: dulcis
+  english_cognate: dulcet
+
+- index: 135
+  french: obligatoire
+  english: "mandatory; compulsory"
+  latin: obligatorium
+  english_cognate: obligatory
+
+- index: 136
+  french: fier
+  english: "proud"
+  latin: ferus (possible influence)
+  english_cognate: fierce (related)
+
+- index: 137
+  french: anglais
+  english: "English"
+  latin: Anglicus
+  english_cognate: English, Anglo-
+
+- index: 138
+  french: double
+  english: "double; dual"
+  latin: duplus
+  english_cognate: double
+
+- index: 139
+  french: plein
+  english: "full"
+  latin: plenus
+  english_cognate: plenty
+
+- index: 140
+  french: vaste
+  english: "vast; wide"
+  latin: vastus
+  english_cognate: vast
+
+- index: 141
+  french: vide
+  english: "empty"
+  latin: vacivus (from vacuus)
+  english_cognate: vacant, vacuous (related)
+
+- index: 142
+  french: terrible
+  english: "terrible; dreadful"
+  latin: terribilis
+  english_cognate: terrible
+
+- index: 143
+  french: intime
+  english: "intimate; personal"
+  latin: intimus
+  english_cognate: intimate
+
+- index: 144
+  french: énorme
+  english: "huge; enormous"
+  latin: enormis
+  english_cognate: enormous
+
+- index: 145
+  french: rare
+  english: "rare; uncommon"
+  latin: rarus
+  english_cognate: rare
+
+- index: 146
+  french: brillant
+  english: "bright; brilliant; shiny"
+  latin: brillare (Late Latin)
+  english_cognate: brilliant
+
+- index: 147
+  french: violent
+  english: "violent"
+  latin: violentus
+  english_cognate: violent
+
+- index: 148
+  french: chaud
+  english: "hot; warm"
+  latin: calidus
+  english_cognate: calorie (related)
+
+- index: 149
+  french: rouge
+  english: "red"
+  latin: rubeus
+  english_cognate: ruby
+
+- index: 150
+  french: frais
+  english: "fresh; cool"
+  latin: frigidus (distant)
+  english_cognate: fresh (Germanic)
+- index: 151
+  french: gentil
+  english: "nice; kind"
+  latin: gentilis
+  english_cognate: gentle
+
+- index: 152
+  french: profond
+  english: "deep; profound"
+  latin: profundus
+  english_cognate: profound
+
+- index: 153
+  french: excellent
+  english: "excellent"
+  latin: excellens
+  english_cognate: excellent
+
+- index: 154
+  french: final
+  english: "final; last"
+  latin: finalis
+  english_cognate: final
+
+- index: 155
+  french: précis
+  english: "precise; exact"
+  latin: precisus
+  english_cognate: precise
+
+- index: 156
+  french: majeur
+  english: "major; main"
+  latin: major
+  english_cognate: major
+
+- index: 157
+  french: idéal
+  english: "ideal; perfect"
+  latin: idealis (from Greek idea)
+  english_cognate: ideal
+
+- index: 158
+  french: fameux
+  english: "famous"
+  latin: famosus
+  english_cognate: famous
+
+- index: 159
+  french: joli
+  english: "pretty; nice"
+  latin: ""
+  english_cognate: jolly (Germanic parallel)
+
+- index: 160
+  french: clair
+  english: "clear; bright"
+  latin: clarus
+  english_cognate: clear
+
+- index: 161
+  french: épais
+  english: "thick"
+  latin: spissus (possible)
+  english_cognate: ""
+
+- index: 162
+  french: étrange
+  english: "strange; odd"
+  latin: extraneus
+  english_cognate: extraneous (related)
+
+- index: 163
+  french: sérieux
+  english: "serious"
+  latin: seriosus
+  english_cognate: serious
+
+- index: 164
+  french: vivant
+  english: "alive; living"
+  latin: vivens
+  english_cognate: vivid
+
+- index: 165
+  french: tendre
+  english: "tender; soft"
+  latin: tener
+  english_cognate: tender
+
+- index: 166
+  french: brillant
+  english: "brilliant; shiny"
+  latin: brillare
+  english_cognate: brilliant
+
+- index: 167
+  french: énorme
+  english: "huge; enormous"
+  latin: enormis
+  english_cognate: enormous
+
+- index: 168
+  french: spécial
+  english: "special"
+  latin: specialis
+  english_cognate: special
+
+- index: 169
+  french: fameux
+  english: "famous"
+  latin: famosus
+  english_cognate: famous
+
+- index: 170
+  french: vif
+  english: "lively; bright; sharp"
+  latin: vivus
+  english_cognate: vivid
+
+- index: 171
+  french: doux
+  english: "sweet; gentle; soft"
+  latin: dulcis
+  english_cognate: dulcet
+
+- index: 172
+  french: favorable
+  english: "favorable"
+  latin: favorabilis
+  english_cognate: favorable
+
+- index: 173
+  french: extrême
+  english: "extreme"
+  latin: extremus
+  english_cognate: extreme
+
+- index: 174
+  french: rapide
+  english: "fast; rapid"
+  latin: rapidus
+  english_cognate: rapid
+
+- index: 175
+  french: ordinaire
+  english: "ordinary; usual"
+  latin: ordinarius
+  english_cognate: ordinary
+
+- index: 176
+  french: neuf
+  english: "new"
+  latin: novus
+  english_cognate: novel (related)
+
+- index: 177
+  french: solide
+  english: "solid; sturdy"
+  latin: solidus
+  english_cognate: solid
+
+- index: 178
+  french: supplémentaire
+  english: "additional; extra"
+  latin: supplementarius
+  english_cognate: supplementary
+
+- index: 179
+  french: plein
+  english: "full"
+  latin: plenus
+  english_cognate: plenty
+
+- index: 180
+  french: noble
+  english: "noble"
+  latin: nobilis
+  english_cognate: noble
+
+- index: 181
+  french: efficace
+  english: "effective; efficient"
+  latin: efficax
+  english_cognate: efficacious (related)
+
+- index: 182
+  french: rapide
+  english: "quick; rapid"
+  latin: rapidus
+  english_cognate: rapid
+
+- index: 183
+  french: réel
+  english: "real"
+  latin: realis
+  english_cognate: real
+
+- index: 184
+  french: juste
+  english: "just; fair; accurate"
+  latin: iustus
+  english_cognate: just
+
+- index: 185
+  french: chaud
+  english: "hot; warm"
+  latin: calidus
+  english_cognate: calorie (related)
+
+- index: 186
+  french: riche
+  english: "rich"
+  latin: ricus (Germanic *rīks*)
+  english_cognate: rich
+
+- index: 187
+  french: froid
+  english: "cold"
+  latin: frigidus
+  english_cognate: frigid
+
+- index: 188
+  french: normal
+  english: "normal"
+  latin: normalis
+  english_cognate: normal
+
+- index: 189
+  french: étrange
+  english: "strange"
+  latin: extraneus
+  english_cognate: extraneous
+
+- index: 190
+  french: enthousiaste
+  english: "enthusiastic"
+  latin: enthusiasmus (from Greek entusiasmo)
+  english_cognate: enthusiasm
+
+- index: 191
+  french: obligatoire
+  english: "mandatory"
+  latin: obligatorium
+  english_cognate: obligatory
+
+- index: 192
+  french: soumis
+  english: "submissive; obedient"
+  latin: submissus
+  english_cognate: submissive
+
+- index: 193
+  french: confortable
+  english: "comfortable"
+  latin: confortare
+  english_cognate: comfortable
+
+- index: 194
+  french: éternel
+  english: "eternal"
+  latin: aeternus
+  english_cognate: eternal
+
+- index: 195
+  french: fidèle
+  english: "faithful; loyal"
+  latin: fidelis
+  english_cognate: fidelity
+
+- index: 196
+  french: national
+  english: "national"
+  latin: nationalis
+  english_cognate: national
+
+- index: 197
+  french: puissant
+  english: "powerful"
+  latin: potens (through Old French *poissant*)
+  english_cognate: potent
+
+- index: 198
+  french: égal
+  english: "equal"
+  latin: aequalis
+  english_cognate: equal
+
+- index: 199
+  french: pauvre
+  english: "poor"
+  latin: pauper
+  english_cognate: pauper
+
+- index: 200
+  french: nerveux
+  english: "nervous"
+  latin: nervosus
+  english_cognate: nervous
