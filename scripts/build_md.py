@@ -26,6 +26,7 @@ def main() -> None:
 
     nouns = load_yaml(nouns_path)
     adjectives = load_yaml(adjectives_path)
+    verbs = load_yaml(verbs_path)
 
     env = Environment(
         loader=FileSystemLoader(str(TEMPLATE_DIR)),
