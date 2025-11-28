@@ -27,3 +27,11 @@ By using Latin cognates and English words derived from French, we can remember t
 {% for e in adjectives -%}
 | {{ e.index }} | {{ e.french }} | {{ e.english }} | {{ e.latin or "" }} | {{ e.english_cognate or "" }} |
 {% endfor %}
+
+## 3. Verbs
+
+| # | French | English | Latin | English cognate(s) |
+|---|--------|---------|-------|--------------------|
+{% for e in verbs -%}
+| {{ e.index }} | {{ e.french }} | {{ e.english }} | {{ e.latin or "" }} | {{ e.english_cognate or "" }} |
+{% endfor %}

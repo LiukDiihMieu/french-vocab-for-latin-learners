@@ -41,8 +41,13 @@ jobs:
           mkdir -p build
           pandoc build/vocab.md -o build/vocab.pdf --pdf-engine=xelatex
 
-      - name: Upload PDF artifact
-        uses: actions/upload-artifact@v4
+      - name: Copy PDF into docs
+        run: |
+          mkdir -p docs
+          cp build/vocab.pdf docs/vocab.pdf
+
+      - name: Commit PDF to repo
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          name: vocab-pdf
-          path: build/vocab.pdf
+          commit_message: "auto commit to update the PDF file"
+          file_pattern: docs/vocab.pdf

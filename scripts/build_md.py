@@ -22,6 +22,7 @@ def load_yaml(path: pathlib.Path):
 def main() -> None:
     nouns_path = DATA_DIR / "nouns.yaml"
     adjectives_path = DATA_DIR / "adjectives.yaml"
+    verbs_path = DATA_DIR / "verbs.yaml"
 
     nouns = load_yaml(nouns_path)
     adjectives = load_yaml(adjectives_path)
@@ -34,7 +35,7 @@ def main() -> None:
     )
     template = env.get_template("vocab.md.j2")
 
-    rendered = template.render(nouns=nouns, adjectives=adjectives)
+    rendered = template.render(nouns=nouns, adjectives=adjectives, verbs=verbs)
 
     OUTPUT_DIR.mkdir(exist_ok=True)
     with OUTPUT_MD.open("w", encoding="utf-8") as f:
