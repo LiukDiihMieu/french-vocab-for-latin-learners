@@ -1,1199 +1,1199 @@
 - index: 1
-  french: être
+  french: "être"
   english: "to be"
-  latin: sum
+  latin: "sum"
   english_cognate: "essence (from esse)"
 
 - index: 2
-  french: avoir
+  french: "avoir"
   english: "to have"
-  latin: habeo
-  english_cognate: habit
+  latin: "habeo"
+  english_cognate: "habit"
 
 - index: 3
-  french: faire
+  french: "faire"
   english: "to do; to make"
-  latin: facio
+  latin: "facio"
   english_cognate: "fact, factory, manufacture"
 
 - index: 4
-  french: pouvoir
+  french: "pouvoir"
   english: "can; to be able to"
-  latin: possum
+  latin: "possum"
   english_cognate: "possible, potent"
 
 - index: 5
-  french: aller
+  french: "aller"
   english: "to go"
-  latin: eo
-  english_cognate: exit (same root *eō*)
+  latin: "eo"
+  english_cognate: "exit (same root *eō*)"
 
 - index: 6
-  french: devoir
+  french: "devoir"
   english: "must; to have to; to owe"
-  latin: debeo
-  english_cognate: debt
+  latin: "debeo"
+  english_cognate: "debt"
 
 - index: 7
-  french: dire
+  french: "dire"
   english: "to say; to tell"
-  latin: dico
-  english_cognate: dictate, diction
+  latin: "dico"
+  english_cognate: "dictate, diction"
 
 - index: 8
-  french: voir
+  french: "voir"
   english: "to see"
-  latin: video
-  english_cognate: video, vision
+  latin: "video"
+  english_cognate: "video, vision"
 
 - index: 9
-  french: prendre
+  french: "prendre"
   english: "to take"
-  latin: prehendo
-  english_cognate: apprehend, comprehend
+  latin: "prehendo"
+  english_cognate: "apprehend, comprehend"
 
 - index: 10
-  french: savoir
+  french: "savoir"
   english: "to know (facts, how to)"
-  latin: scio
-  english_cognate: science
+  latin: "scio"
+  english_cognate: "science"
 
 - index: 11
-  french: mettre
+  french: "mettre"
   english: "to put; to place"
-  latin: mitto
-  english_cognate: transmit, submit
+  latin: "mitto"
+  english_cognate: "transmit, submit"
 
 - index: 12
-  french: vouloir
+  french: "vouloir"
   english: "to want"
-  latin: volo
-  english_cognate: volition
+  latin: "volo"
+  english_cognate: "volition"
 
 - index: 13
-  french: trouver
+  french: "trouver"
   english: "to find"
   latin: ""
   english_cognate: ""
 
 - index: 14
-  french: donner
+  french: "donner"
   english: "to give"
-  latin: dono
-  english_cognate: donate
+  latin: "dono"
+  english_cognate: "donate"
 
 - index: 15
-  french: venir
+  french: "venir"
   english: "to come"
-  latin: venio
-  english_cognate: advent, venue
+  latin: "venio"
+  english_cognate: "advent, venue"
 
 - index: 16
-  french: passer
+  french: "passer"
   english: "to pass; to go by; to spend (time)"
   latin: ""
-  english_cognate: pass
+  english_cognate: "pass"
 
 - index: 17
-  french: falloir
+  french: "falloir"
   english: "to be necessary (impersonal)"
   latin: ""
   english_cognate: ""
 
 - index: 18
-  french: permettre
+  french: "permettre"
   english: "to allow; to permit"
-  latin: permitto
-  english_cognate: permit
+  latin: "permitto"
+  english_cognate: "permit"
 
 - index: 19
-  french: utiliser
+  french: "utiliser"
   english: "to use"
   latin: ""
-  english_cognate: utilize
+  english_cognate: "utilize"
 
 - index: 20
-  french: penser
+  french: "penser"
   english: "to think"
-  latin: penso
-  english_cognate: pensive
+  latin: "penso"
+  english_cognate: "pensive"
 
 - index: 21
-  french: comprendre
+  french: "comprendre"
   english: "to understand"
-  latin: comprehendo
-  english_cognate: comprehend
+  latin: "comprehendo"
+  english_cognate: "comprehend"
 
 - index: 22
-  french: rester
+  french: "rester"
   english: "to stay; to remain"
-  latin: resto
-  english_cognate: rest
+  latin: "resto"
+  english_cognate: "rest"
 
 - index: 23
-  french: connaître
+  french: "connaître"
   english: "to know; to be familiar with"
-  latin: cognosco
-  english_cognate: cognition, recognize
+  latin: "cognosco"
+  english_cognate: "cognition, recognize"
 
 - index: 24
-  french: partir
+  french: "partir"
   english: "to leave; to depart"
-  latin: partior
-  english_cognate: part, partition
+  latin: "partior"
+  english_cognate: "part, partition"
 
 - index: 25
-  french: jouer
+  french: "jouer"
   english: "to play"
-  latin: ioco
-  english_cognate: joke, jocular
+  latin: "ioco"
+  english_cognate: "joke, jocular"
 
 - index: 26
-  french: aimer
+  french: "aimer"
   english: "to love; to like"
-  latin: amo
-  english_cognate: amicable (same root *am-*)
+  latin: "amo"
+  english_cognate: "amicable (same root *am-*)"
 
 - index: 27
-  french: demander
+  french: "demander"
   english: "to ask (for); to request"
-  latin: demando
-  english_cognate: demand
+  latin: "demando"
+  english_cognate: "demand"
 
 - index: 28
-  french: parler
+  french: "parler"
   english: "to speak; to talk"
   latin: ""
-  english_cognate: parable (related via *parabola*)
+  english_cognate: "parable (related via *parabola*)"
 
 - index: 29
-  french: arriver
+  french: "arriver"
   english: "to arrive; to happen"
   latin: ""
-  english_cognate: arrive
+  english_cognate: "arrive"
 
 - index: 30
-  french: devenir
+  french: "devenir"
   english: "to become"
-  latin: devenio
-  english_cognate: advent (same *venio* root)
+  latin: "devenio"
+  english_cognate: "advent (same *venio* root)"
 
 - index: 31
-  french: laisser
+  french: "laisser"
   english: "to leave; to let"
-  latin: laxo
-  english_cognate: lax, relax
+  latin: "laxo"
+  english_cognate: "lax, relax"
 
 - index: 32
-  french: rendre
+  french: "rendre"
   english: "to give back; to make (render)"
-  latin: reddo
-  english_cognate: render
+  latin: "reddo"
+  english_cognate: "render"
 
 - index: 33
-  french: commencer
+  french: "commencer"
   english: "to begin; to start"
   latin: ""
-  english_cognate: commence
+  english_cognate: "commence"
 
 - index: 34
-  french: offrir
+  french: "offrir"
   english: "to offer; to give"
-  latin: offero
-  english_cognate: offer
+  latin: "offero"
+  english_cognate: "offer"
 
 - index: 35
-  french: tenir
+  french: "tenir"
   english: "to hold; to keep"
-  latin: teneo
-  english_cognate: tenacious, tenure
+  latin: "teneo"
+  english_cognate: "tenacious, tenure"
 
 - index: 36
-  french: proposer
+  french: "proposer"
   english: "to propose; to suggest"
-  latin: propono
-  english_cognate: propose
+  latin: "propono"
+  english_cognate: "propose"
 
 - index: 37
-  french: attendre
+  french: "attendre"
   english: "to wait (for); to expect"
-  latin: attendo
-  english_cognate: attend, attention
+  latin: "attendo"
+  english_cognate: "attend, attention"
 
 - index: 38
-  french: croire
+  french: "croire"
   english: "to believe"
-  latin: credo
-  english_cognate: creed, credible
+  latin: "credo"
+  english_cognate: "creed, credible"
 
 - index: 39
-  french: suivre
+  french: "suivre"
   english: "to follow"
-  latin: sequor
-  english_cognate: sequence, sequel
+  latin: "sequor"
+  english_cognate: "sequence, sequel"
 
 - index: 40
-  french: sembler
+  french: "sembler"
   english: "to seem; to appear"
-  latin: simulo
-  english_cognate: simulate, semblance
+  latin: "simulo"
+  english_cognate: "simulate, semblance"
 
 - index: 41
-  french: obtenir
+  french: "obtenir"
   english: "to obtain; to get"
-  latin: obtineo
-  english_cognate: obtain
+  latin: "obtineo"
+  english_cognate: "obtain"
 
 - index: 42
-  french: vivre
+  french: "vivre"
   english: "to live"
-  latin: vivo
-  english_cognate: vivid, survive
+  latin: "vivo"
+  english_cognate: "vivid, survive"
 
 - index: 43
-  french: créer
+  french: "créer"
   english: "to create"
-  latin: creo
-  english_cognate: create
+  latin: "creo"
+  english_cognate: "create"
 
 - index: 44
-  french: agir
+  french: "agir"
   english: "to act"
-  latin: ago
-  english_cognate: act, agent, action
+  latin: "ago"
+  english_cognate: "act, agent, action"
 
 - index: 45
-  french: présenter
+  french: "présenter"
   english: "to present; to introduce"
-  latin: praesento
-  english_cognate: present
+  latin: "praesento"
+  english_cognate: "present"
 
 - index: 46
-  french: sortir
+  french: "sortir"
   english: "to go out; to leave; to take out"
-  latin: sortior
-  english_cognate: sortition (same *sort-* root)
+  latin: "sortior"
+  english_cognate: "sortition (same *sort-* root)"
 
 - index: 47
-  french: regarder
+  french: "regarder"
   english: "to look at; to watch"
   latin: ""
-  english_cognate: regard
+  english_cognate: "regard"
 
 - index: 48
-  french: aider
+  french: "aider"
   english: "to help"
-  latin: adiuvo
-  english_cognate: aid
+  latin: "adiuvo"
+  english_cognate: "aid"
 
 - index: 49
-  french: concerner
+  french: "concerner"
   english: "to concern; to relate to"
   latin: ""
-  english_cognate: concern
+  english_cognate: "concern"
 
 - index: 50
-  french: porter
+  french: "porter"
   english: "to carry; to wear"
-  latin: porto
-  english_cognate: portable, export, transport
+  latin: "porto"
+  english_cognate: "portable, export, transport"
 
 - index: 51
-  french: utiliser
+  french: "utiliser"
   english: "to use"
   latin: ""
-  english_cognate: utilize
+  english_cognate: "utilize"
 
 - index: 52
-  french: atteindre
+  french: "atteindre"
   english: "to reach; to attain"
-  latin: attingo
-  english_cognate: attain
+  latin: "attingo"
+  english_cognate: "attain"
 
 - index: 53
-  french: tenter
+  french: "tenter"
   english: "to try; to attempt"
-  latin: tento
-  english_cognate: attempt
+  latin: "tento"
+  english_cognate: "attempt"
 
 - index: 54
-  french: reprendre
+  french: "reprendre"
   english: "to take again; to resume"
-  latin: reprehendo (same *-prehend-*)
-  english_cognate: re-apprehend (related), comprehend
+  latin: "reprehendo (same *-prehend-*)"
+  english_cognate: "re-apprehend (related), comprehend"
 
 - index: 55
-  french: sortir
+  french: "sortir"
   english: "to go out; to exit"
-  latin: sortior
-  english_cognate: sortition (same root)
+  latin: "sortior"
+  english_cognate: "sortition (same root)"
 
 - index: 56
-  french: reprendre
+  french: "reprendre"
   english: "to resume"
-  latin: reprehendo
-  english_cognate: comprehend
+  latin: "reprehendo"
+  english_cognate: "comprehend"
 
 - index: 57
-  french: mourir
+  french: "mourir"
   english: "to die"
-  latin: morior
-  english_cognate: mortal
+  latin: "morior"
+  english_cognate: "mortal"
 
 - index: 58
-  french: suivre
+  french: "suivre"
   english: "to follow"
-  latin: sequor
-  english_cognate: sequence, sequel
+  latin: "sequor"
+  english_cognate: "sequence, sequel"
 
 - index: 59
-  french: perdre
+  french: "perdre"
   english: "to lose"
-  latin: perdo
-  english_cognate: perdition (rare but real)
+  latin: "perdo"
+  english_cognate: "perdition (rare but real)"
 
 - index: 60
-  french: ouvrir
+  french: "ouvrir"
   english: "to open"
-  latin: aperio
-  english_cognate: aperture
+  latin: "aperio"
+  english_cognate: "aperture"
 
 - index: 61
-  french: gagner
+  french: "gagner"
   english: "to win; to earn; to gain"
   latin: ""
-  english_cognate: gain (Germanic parallel)
+  english_cognate: "gain (Germanic parallel)"
 
 - index: 62
-  french: exister
+  french: "exister"
   english: "to exist"
-  latin: exsto
-  english_cognate: exist
+  latin: "exsto"
+  english_cognate: "exist"
 
 - index: 63
-  french: refuser
+  french: "refuser"
   english: "to refuse"
-  latin: recuso
-  english_cognate: recuse
+  latin: "recuso"
+  english_cognate: "recuse"
 
 - index: 64
-  french: lire
+  french: "lire"
   english: "to read"
-  latin: lego
-  english_cognate: legible
+  latin: "lego"
+  english_cognate: "legible"
 
 - index: 65
-  french: réussir
+  french: "réussir"
   english: "to succeed"
-  latin: exsurgo (distant), direct Latin uncertain
+  latin: "exsurgo (distant), direct Latin uncertain"
   english_cognate: ""
 
 - index: 66
-  french: changer
+  french: "changer"
   english: "to change"
-  latin: cambio
-  english_cognate: change (via French)
+  latin: "cambio"
+  english_cognate: "change (via French)"
 
 - index: 67
-  french: travailler
+  french: "travailler"
   english: "to work"
-  latin: tripalio (Late Latin)
-  english_cognate: travel (same origin!)
+  latin: "tripalio (Late Latin)"
+  english_cognate: "travel (same origin!)"
 
 - index: 68
-  french: entendre
+  french: "entendre"
   english: "to hear; to understand (in context)"
-  latin: intendo (semantic shift)
-  english_cognate: intend (related root)
+  latin: "intendo (semantic shift)"
+  english_cognate: "intend (related root)"
 
 - index: 69
-  french: utiliser
+  french: "utiliser"
   english: "to use"
   latin: ""
-  english_cognate: utilize
+  english_cognate: "utilize"
 
 - index: 70
-  french: réussir
+  french: "réussir"
   english: "to succeed"
   latin: ""
   english_cognate: ""
 
 - index: 71
-  french: choisir
+  french: "choisir"
   english: "to choose"
   latin: ""
-  english_cognate: choose (parallel Germanic)
+  english_cognate: "choose (parallel Germanic)"
 
 - index: 72
-  french: marcher
+  french: "marcher"
   english: "to walk"
   latin: ""
-  english_cognate: march (related path/step)
+  english_cognate: "march (related path/step)"
 
 - index: 73
-  french: envoyer
+  french: "envoyer"
   english: "to send"
-  latin: invio? (no good Latin ancestor)
-  english_cognate: envoy
+  latin: "invio? (no good Latin ancestor)"
+  english_cognate: "envoy"
 
 - index: 74
-  french: appeler
+  french: "appeler"
   english: "to call; to name"
-  latin: appello
-  english_cognate: appellation
+  latin: "appello"
+  english_cognate: "appellation"
 
 - index: 75
-  french: tomber
+  french: "tomber"
   english: "to fall"
   latin: ""
-  english_cognate: tumble (Germanic parallel)
+  english_cognate: "tumble (Germanic parallel)"
 
 - index: 76
-  french: reprendre
+  french: "reprendre"
   english: "to take again"
-  latin: reprehendo
-  english_cognate: comprehend
+  latin: "reprehendo"
+  english_cognate: "comprehend"
 
 - index: 77
-  french: occuper
+  french: "occuper"
   english: "to occupy"
-  latin: occupo
-  english_cognate: occupy
+  latin: "occupo"
+  english_cognate: "occupy"
 
 - index: 78
-  french: utiliser
+  french: "utiliser"
   english: "to use"
   latin: ""
-  english_cognate: utilize
+  english_cognate: "utilize"
 
 - index: 79
-  french: revenir
+  french: "revenir"
   english: "to come back"
-  latin: revenio
-  english_cognate: revenue (same *venio* root)
+  latin: "revenio"
+  english_cognate: "revenue (same *venio* root)"
 
 - index: 80
-  french: partir
+  french: "partir"
   english: "to leave"
-  latin: partior
-  english_cognate: partition, part
+  latin: "partior"
+  english_cognate: "partition, part"
 
 - index: 81
-  french: assurer
+  french: "assurer"
   english: "to assure; to insure"
-  latin: securus (root of *sure*)
-  english_cognate: sure, assure
+  latin: "securus (root of *sure*)"
+  english_cognate: "sure, assure"
 
 - index: 82
-  french: tirer
+  french: "tirer"
   english: "to pull; to shoot; to draw"
-  latin: tiro? (folk link; originally Germanic)
+  latin: "tiro? (folk link; originally Germanic)"
   english_cognate: ""
 
 - index: 83
-  french: essayer
+  french: "essayer"
   english: "to try; to attempt"
-  latin: exagium (trial, weighing)
-  english_cognate: assay
+  latin: "exagium (trial, weighing)"
+  english_cognate: "assay"
 
 - index: 84
-  french: empêcher
+  french: "empêcher"
   english: "to prevent"
-  latin: impedio
-  english_cognate: impede
+  latin: "impedio"
+  english_cognate: "impede"
 
 - index: 85
-  french: offrir
+  french: "offrir"
   english: "to offer"
-  latin: offero
-  english_cognate: offer
+  latin: "offero"
+  english_cognate: "offer"
 
 - index: 86
-  french: importer
+  french: "importer"
   english: "to import; to matter"
-  latin: importo
-  english_cognate: import
+  latin: "importo"
+  english_cognate: "import"
 
 - index: 87
-  french: préparer
+  french: "préparer"
   english: "to prepare"
-  latin: praeparo
-  english_cognate: prepare
+  latin: "praeparo"
+  english_cognate: "prepare"
 
 - index: 88
-  french: lever
+  french: "lever"
   english: "to raise; to lift"
-  latin: levare
-  english_cognate: levitate, elevate
+  latin: "levare"
+  english_cognate: "levitate, elevate"
 
 - index: 89
-  french: servir
+  french: "servir"
   english: "to serve"
-  latin: servio
-  english_cognate: serve, service
+  latin: "servio"
+  english_cognate: "serve, service"
 
 - index: 90
-  french: représenter
+  french: "représenter"
   english: "to represent"
-  latin: repraesento
-  english_cognate: represent
+  latin: "repraesento"
+  english_cognate: "represent"
 
 - index: 91
-  french: monter
+  french: "monter"
   english: "to go up; to climb"
-  latin: mons (root concept), no direct verb
-  english_cognate: mount
+  latin: "mons (root concept), no direct verb"
+  english_cognate: "mount"
 
 - index: 92
-  french: avancer
+  french: "avancer"
   english: "to advance; to move forward"
   latin: "abantio? (actual origin: Vulgar Latin *abante*)"
-  english_cognate: advance
+  english_cognate: "advance"
 
 - index: 93
-  french: revenir
+  french: "revenir"
   english: "to return; to come back"
-  latin: revenio
+  latin: "revenio"
   english_cognate: "revenue (from *venio*)"
 
 - index: 94
-  french: dégager
+  french: "dégager"
   english: "to clear; to free; to release"
   latin: ""
-  english_cognate: disengage
+  english_cognate: "disengage"
 
 - index: 95
-  french: garder
+  french: "garder"
   english: "to keep; to guard"
   latin: "guardo? (actually Germanic *wardon*)"
-  english_cognate: guard, ward
+  english_cognate: "guard, ward"
 
 - index: 96
-  french: mener
+  french: "mener"
   english: "to lead"
-  latin: mino (to drive animals)
-  english_cognate: "
+  latin: "mino (to drive animals)"
+  english_cognate: ""
 
 - index: 97
-  french: jouer
+  french: "jouer"
   english: "to play"
-  latin: ioco
-  english_cognate: joke, jocular
+  latin: "ioco"
+  english_cognate: "joke, jocular"
 
 - index: 98
-  french: reconnaître
+  french: "reconnaître"
   english: "to recognize"
-  latin: recognosco
-  english_cognate: recognize
+  latin: "recognosco"
+  english_cognate: "recognize"
 
 - index: 99
-  french: refuser
+  french: "refuser"
   english: "to refuse"
-  latin: recuso
-  english_cognate: recuse
+  latin: "recuso"
+  english_cognate: "recuse"
 
 - index: 100
-  french: acheter
+  french: "acheter"
   english: "to buy"
   latin: ""
   english_cognate: ""
 
 - index: 101
-  french: apprendre
+  french: "apprendre"
   english: "to learn; to teach"
-  latin: apprehendo
-  english_cognate: apprehend, comprehend
+  latin: "apprehendo"
+  english_cognate: "apprehend, comprehend"
 
 - index: 102
-  french: tourner
+  french: "tourner"
   english: "to turn; to rotate"
-  latin: torno
-  english_cognate: turn, torque (related)
+  latin: "torno"
+  english_cognate: "turn, torque (related)"
 
 - index: 103
-  french: envoyer
+  french: "envoyer"
   english: "to send"
-  latin: invio? (no solid classical ancestor)
-  english_cognate: envoy
+  latin: "invio? (no solid classical ancestor)"
+  english_cognate: "envoy"
 
 - index: 104
-  french: marcher
+  french: "marcher"
   english: "to walk; to function"
   latin: ""
-  english_cognate: march
+  english_cognate: "march"
 
 - index: 105
-  french: continuer
+  french: "continuer"
   english: "to continue"
-  latin: continuo
-  english_cognate: continue
+  latin: "continuo"
+  english_cognate: "continue"
 
 - index: 106
-  french: compter
+  french: "compter"
   english: "to count; to expect"
-  latin: computo
-  english_cognate: compute
+  latin: "computo"
+  english_cognate: "compute"
 
 - index: 107
-  french: produire
+  french: "produire"
   english: "to produce"
-  latin: produco
-  english_cognate: produce
+  latin: "produco"
+  english_cognate: "produce"
 
 - index: 108
-  french: offrir
+  french: "offrir"
   english: "to offer"
-  latin: offero
-  english_cognate: offer
+  latin: "offero"
+  english_cognate: "offer"
 
 - index: 109
-  french: tirer
+  french: "tirer"
   english: "to pull; to shoot; to draw"
-  latin: tiro? (likely Germanic origin)
+  latin: "tiro? (likely Germanic origin)"
   english_cognate: ""
 
 - index: 110
-  french: utiliser
+  french: "utiliser"
   english: "to use"
   latin: ""
-  english_cognate: utilize
+  english_cognate: "utilize"
 
 - index: 111
-  french: poser
+  french: "poser"
   english: "to put; to place; to pose"
-  latin: pono
-  english_cognate: position, pose
+  latin: "pono"
+  english_cognate: "position, pose"
 
 - index: 112
-  french: amener
+  french: "amener"
   english: "to bring (someone); to lead"
-  latin: mino (to drive animals)
+  latin: "mino (to drive animals)"
   english_cognate: ""
 
 - index: 113
-  french: apprendre
+  french: "apprendre"
   english: "to learn; to teach"
-  latin: apprehendo
-  english_cognate: comprehend
+  latin: "apprehendo"
+  english_cognate: "comprehend"
 
 - index: 114
-  french: servir
+  french: "servir"
   english: "to serve"
-  latin: servio
-  english_cognate: serve, service
+  latin: "servio"
+  english_cognate: "serve, service"
 
 - index: 115
-  french: envoyer
+  french: "envoyer"
   english: "to send"
   latin: ""
-  english_cognate: envoy
+  english_cognate: "envoy"
 
 - index: 116
-  french: hésiter
+  french: "hésiter"
   english: "to hesitate"
-  latin: haesito
-  english_cognate: hesitate
+  latin: "haesito"
+  english_cognate: "hesitate"
 
 - index: 117
-  french: défendre
+  french: "défendre"
   english: "to defend; to forbid"
-  latin: defendo
-  english_cognate: defend
+  latin: "defendo"
+  english_cognate: "defend"
 
 - index: 118
-  french: apprendre
+  french: "apprendre"
   english: "to learn; to teach"
-  latin: apprehendo
-  english_cognate: apprehend
+  latin: "apprehendo"
+  english_cognate: "apprehend"
 
 - index: 119
-  french: tirer
+  french: "tirer"
   english: "to pull; to shoot"
   latin: ""
   english_cognate: ""
 
 - index: 120
-  french: rester
+  french: "rester"
   english: "to stay; to remain"
-  latin: resto
-  english_cognate: rest
+  latin: "resto"
+  english_cognate: "rest"
 
 - index: 121
-  french: écouter
+  french: "écouter"
   english: "to listen"
-  latin: ausculto
-  english_cognate: auscultation
+  latin: "ausculto"
+  english_cognate: "auscultation"
 
 - index: 122
-  french: apprendre
+  french: "apprendre"
   english: "to learn"
-  latin: apprehendo
-  english_cognate: comprehend
+  latin: "apprehendo"
+  english_cognate: "comprehend"
 
 - index: 123
-  french: répondre
+  french: "répondre"
   english: "to answer; to respond"
-  latin: respondeo
-  english_cognate: respond, response
+  latin: "respondeo"
+  english_cognate: "respond, response"
 
 - index: 124
-  french: pousser
+  french: "pousser"
   english: "to push"
-  latin: pulsare (frequentative of pello)
-  english_cognate: pulse, propel
+  latin: "pulsare (frequentative of pello)"
+  english_cognate: "pulse, propel"
 
 - index: 125
-  french: retrouver
+  french: "retrouver"
   english: "to find again; to recover"
   latin: ""
-  english_cognate: re-find
+  english_cognate: "re-find"
 
 - index: 126
-  french: saisir
+  french: "saisir"
   english: "to seize; to grasp"
   latin: "satiare? (disputed; likely Germanic *seisan*)"
-  english_cognate: seize
+  english_cognate: "seize"
 
 - index: 127
-  french: relever
+  french: "relever"
   english: "to raise; to lift up; to pick up"
-  latin: relevare
-  english_cognate: relieve, elevate
+  latin: "relevare"
+  english_cognate: "relieve, elevate"
 
 - index: 128
-  french: éviter
+  french: "éviter"
   english: "to avoid"
-  latin: evito
-  english_cognate: evitable (rare)
+  latin: "evito"
+  english_cognate: "evitable (rare)"
 
 - index: 129
-  french: fermer
+  french: "fermer"
   english: "to close"
-  latin: firmo (semantic shift)
-  english_cognate: firm
+  latin: "firmo (semantic shift)"
+  english_cognate: "firm"
 
 - index: 130
-  french: mettre
+  french: "mettre"
   english: "to put; to place"
-  latin: mitto
-  english_cognate: transmit, submit
+  latin: "mitto"
+  english_cognate: "transmit, submit"
 
 - index: 131
-  french: projeter
+  french: "projeter"
   english: "to project; to plan"
   latin: "proicio (root of *project*)"
-  english_cognate: project
+  english_cognate: "project"
 
 - index: 132
-  french: admettre
+  french: "admettre"
   english: "to admit"
-  latin: admitto
-  english_cognate: admit
+  latin: "admitto"
+  english_cognate: "admit"
 
 - index: 133
-  french: espérer
+  french: "espérer"
   english: "to hope"
-  latin: spero
-  english_cognate: despair (same root)
+  latin: "spero"
+  english_cognate: "despair (same root)"
 
 - index: 134
-  french: éprouver
+  french: "éprouver"
   english: "to feel; to experience"
-  latin: probare (to test)
-  english_cognate: prove (metaphorically related)
+  latin: "probare (to test)"
+  english_cognate: "prove (metaphorically related)"
 
 - index: 135
-  french: organiser
+  french: "organiser"
   english: "to organize"
   latin: "organiso (from Greek *organon*)"
-  english_cognate: organize
+  english_cognate: "organize"
 
 - index: 136
-  french: revenir
+  french: "revenir"
   english: "to come back"
-  latin: revenio
+  latin: "revenio"
   english_cognate: "revenue (same *venio* root)"
 
 - index: 137
-  french: cuisiner
+  french: "cuisiner"
   english: "to cook"
-  latin: coquo
-  english_cognate: cuisine, cook (parallel)
+  latin: "coquo"
+  english_cognate: "cuisine, cook (parallel)"
 
 - index: 138
-  french: découvrir
+  french: "découvrir"
   english: "to discover"
-  latin: discooperio (literally “un-cover”)
-  english_cognate: discover
+  latin: "discooperio (literally “un-cover”)"
+  english_cognate: "discover"
 
 - index: 139
-  french: accompagner
+  french: "accompagner"
   english: "to accompany"
-  latin: accompagno (Medieval Latin)
-  english_cognate: accompany
+  latin: "accompagno (Medieval Latin)"
+  english_cognate: "accompany"
 
 - index: 140
-  french: gagner
+  french: "gagner"
   english: "to win; to earn"
   latin: ""
-  english_cognate: gain
+  english_cognate: "gain"
 
 - index: 141
-  french: partager
+  french: "partager"
   english: "to share; to divide"
-  latin: partior
-  english_cognate: partition
+  latin: "partior"
+  english_cognate: "partition"
 
 - index: 142
-  french: entrer
+  french: "entrer"
   english: "to enter"
-  latin: intro
-  english_cognate: enter, introduce
+  latin: "intro"
+  english_cognate: "enter, introduce"
 
 - index: 143
-  french: monter
+  french: "monter"
   english: "to go up; to climb"
-  latin: mons (mountain root)
-  english_cognate: mount
+  latin: "mons (mountain root)"
+  english_cognate: "mount"
 
 - index: 144
-  french: garder
+  french: "garder"
   english: "to keep; to guard"
   latin: "(Germanic *wardon*)"
-  english_cognate: guard, ward
+  english_cognate: "guard, ward"
 
 - index: 145
-  french: envoyer
+  french: "envoyer"
   english: "to send"
   latin: ""
-  english_cognate: envoy
+  english_cognate: "envoy"
 
 - index: 146
-  french: poursuivre
+  french: "poursuivre"
   english: "to pursue; to chase"
-  latin: prosequor
-  english_cognate: prosecute, pursue
+  latin: "prosequor"
+  english_cognate: "prosecute, pursue"
 
 - index: 147
-  french: manquer
+  french: "manquer"
   english: "to miss; to lack; to fail"
-  latin: mancare? (Late Latin)
-  english_cognate: manque (loan)
+  latin: "mancare? (Late Latin)"
+  english_cognate: "manque (loan)"
 
 - index: 148
-  french: utiliser
+  french: "utiliser"
   english: "to use"
   latin: ""
-  english_cognate: utilize
+  english_cognate: "utilize"
 
 - index: 149
-  french: écouter
+  french: "écouter"
   english: "to listen"
-  latin: ausculto
-  english_cognate: auscultation
+  latin: "ausculto"
+  english_cognate: "auscultation"
 
 - index: 150
-  french: apprendre
+  french: "apprendre"
   english: "to learn"
-  latin: apprehendo
-  english_cognate: comprehend
+  latin: "apprehendo"
+  english_cognate: "comprehend"
 
 - index: 151
-  french: retourner
+  french: "retourner"
   english: "to return; to go back; to turn over"
-  latin: retorno (Medieval Latin)
-  english_cognate: return
+  latin: "retorno (Medieval Latin)"
+  english_cognate: "return"
 
 - index: 152
-  french: assurer
+  french: "assurer"
   english: "to assure; to insure"
   latin: "securus (root of *sure*)"
-  english_cognate: assure, insure
+  english_cognate: "assure, insure"
 
 - index: 153
-  french: satisfaire
+  french: "satisfaire"
   english: "to satisfy"
-  latin: satisfacio
-  english_cognate: satisfy, satisfaction
+  latin: "satisfacio"
+  english_cognate: "satisfy, satisfaction"
 
 - index: 154
-  french: importer
+  french: "importer"
   english: "to import; to matter"
-  latin: importo
-  english_cognate: import
+  latin: "importo"
+  english_cognate: "import"
 
 - index: 155
-  french: relever
+  french: "relever"
   english: "to raise; to lift; to pick up"
-  latin: relevare
-  english_cognate: relieve, elevate
+  latin: "relevare"
+  english_cognate: "relieve, elevate"
 
 - index: 156
-  french: envahir
+  french: "envahir"
   english: "to invade; to overrun"
-  latin: invado
-  english_cognate: invade
+  latin: "invado"
+  english_cognate: "invade"
 
 - index: 157
-  french: écouter
+  french: "écouter"
   english: "to listen"
-  latin: ausculto
-  english_cognate: auscultation
+  latin: "ausculto"
+  english_cognate: "auscultation"
 
 - index: 158
-  french: rentrer
+  french: "rentrer"
   english: "to re-enter; to go back home"
   latin: "intro (root), *re-* + enter"
-  english_cognate: re-enter, enter
+  english_cognate: "re-enter, enter"
 
 - index: 159
-  french: créer
+  french: "créer"
   english: "to create"
-  latin: creo
-  english_cognate: create
+  latin: "creo"
+  english_cognate: "create"
 
 - index: 160
-  french: ajouter
+  french: "ajouter"
   english: "to add"
   latin: "adiuto? (folk), actual origin Romance *adiuctare*"
-  english_cognate: add (semantic)
+  english_cognate: "add (semantic)"
 
 - index: 161
-  french: défendre
+  french: "défendre"
   english: "to defend; to forbid"
-  latin: defendo
-  english_cognate: defend
+  latin: "defendo"
+  english_cognate: "defend"
 
 - index: 162
-  french: organiser
+  french: "organiser"
   english: "to organize"
-  latin: organiso (Medieval Latin, from Greek)
-  english_cognate: organize
+  latin: "organiso (Medieval Latin, from Greek)"
+  english_cognate: "organize"
 
 - index: 163
-  french: fermer
+  french: "fermer"
   english: "to close"
-  latin: firmo (to strengthen)
-  english_cognate: firm
+  latin: "firmo (to strengthen)"
+  english_cognate: "firm"
 
 - index: 164
-  french: voyager
+  french: "voyager"
   english: "to travel"
   latin: "viatico? (folk), Romance root *viaticare*"
-  english_cognate: voyage
+  english_cognate: "voyage"
 
 - index: 165
-  french: construire
+  french: "construire"
   english: "to build; to construct"
-  latin: construo
-  english_cognate: construct
+  latin: "construo"
+  english_cognate: "construct"
 
 - index: 166
-  french: cuisiner
+  french: "cuisiner"
   english: "to cook"
-  latin: coquo
-  english_cognate: cuisine
+  latin: "coquo"
+  english_cognate: "cuisine"
 
 - index: 167
-  french: rencontrer
+  french: "rencontrer"
   english: "to meet; to encounter"
-  latin: incontra (Medieval Romance)
-  english_cognate: encounter
+  latin: "incontra (Medieval Romance)"
+  english_cognate: "encounter"
 
 - index: 168
-  french: remarquer
+  french: "remarquer"
   english: "to notice; to remark"
   latin: "remarko? (Romance), Latin root *marco*"
-  english_cognate: remark
+  english_cognate: "remark"
 
 - index: 169
-  french: remarquer
+  french: "remarquer"
   english: "to notice; to remark"
   latin: ""
-  english_cognate: remark
+  english_cognate: "remark"
 
 - index: 170
-  french: assurer
+  french: "assurer"
   english: "to assure"
-  latin: securus
-  english_cognate: assure
+  latin: "securus"
+  english_cognate: "assure"
 
 - index: 171
-  french: poser
+  french: "poser"
   english: "to put; to set down"
-  latin: pono
-  english_cognate: position, pose
+  latin: "pono"
+  english_cognate: "position, pose"
 
 - index: 172
-  french: créer
+  french: "créer"
   english: "to create"
-  latin: creo
-  english_cognate: create
+  latin: "creo"
+  english_cognate: "create"
 
 - index: 173
-  french: combattre
+  french: "combattre"
   english: "to fight; to combat"
-  latin: combattere (Late Latin from battuo)
-  english_cognate: combat
+  latin: "combattere (Late Latin from battuo)"
+  english_cognate: "combat"
 
 - index: 174
-  french: disposer
+  french: "disposer"
   english: "to arrange; to dispose"
-  latin: dispono
-  english_cognate: dispose
+  latin: "dispono"
+  english_cognate: "dispose"
 
 - index: 175
-  french: rappeler
+  french: "rappeler"
   english: "to call back; to remind"
   latin: "repello? (folk), true origin from *re-* + *appellare*"
-  english_cognate: recall, rappel (loan)
+  english_cognate: "recall, rappel (loan)"
 
 - index: 176
-  french: atteindre
+  french: "atteindre"
   english: "to reach"
-  latin: attingo
-  english_cognate: attain
+  latin: "attingo"
+  english_cognate: "attain"
 
 - index: 177
-  french: contenir
+  french: "contenir"
   english: "to contain; to hold"
-  latin: contineo
-  english_cognate: contain, content
+  latin: "contineo"
+  english_cognate: "contain, content"
 
 - index: 178
-  french: refuser
+  french: "refuser"
   english: "to refuse"
-  latin: recuso
-  english_cognate: recuse, refuse
+  latin: "recuso"
+  english_cognate: "recuse, refuse"
 
 - index: 179
-  french: prévenir
+  french: "prévenir"
   english: "to warn; to prevent"
-  latin: provideo (for warn), praevenio (for prevent)
-  english_cognate: prevent
+  latin: "provideo (for warn), praevenio (for prevent)"
+  english_cognate: "prevent"
 
 - index: 180
-  french: éviter
+  french: "éviter"
   english: "to avoid"
-  latin: evito
-  english_cognate: evitable (rare)
+  latin: "evito"
+  english_cognate: "evitable (rare)"
 
 - index: 181
-  french: projeter
+  french: "projeter"
   english: "to project; to plan"
-  latin: proicio
-  english_cognate: project
+  latin: "proicio"
+  english_cognate: "project"
 
 - index: 182
-  french: réfléchir
+  french: "réfléchir"
   english: "to reflect; to think"
-  latin: reflecto
-  english_cognate: reflect
+  latin: "reflecto"
+  english_cognate: "reflect"
 
 - index: 183
-  french: posséder
+  french: "posséder"
   english: "to possess"
-  latin: possideo
-  english_cognate: possess
+  latin: "possideo"
+  english_cognate: "possess"
 
 - index: 184
-  french: coucher
+  french: "coucher"
   english: "to lay down; to go to bed"
-  latin: collocare? (related Romance)
-  english_cognate: couch
+  latin: "collocare? (related Romance)"
+  english_cognate: "couch"
 
 - index: 185
-  french: tenir
+  french: "tenir"
   english: "to hold"
-  latin: teneo
-  english_cognate: tenet, tenure
+  latin: "teneo"
+  english_cognate: "tenet, tenure"
 
 - index: 186
-  french: viser
+  french: "viser"
   english: "to aim"
-  latin: viso (frequentative of video)
-  english_cognate: vision (related root)
+  latin: "viso (frequentative of video)"
+  english_cognate: "vision (related root)"
 
 - index: 187
-  french: protéger
+  french: "protéger"
   english: "to protect"
-  latin: protego
-  english_cognate: protect
+  latin: "protego"
+  english_cognate: "protect"
 
 - index: 188
-  french: remarquer
+  french: "remarquer"
   english: "to notice; to remark"
   latin: ""
-  english_cognate: remark
+  english_cognate: "remark"
 
 - index: 189
-  french: inclure
+  french: "inclure"
   english: "to include"
-  latin: includo
-  english_cognate: include
+  latin: "includo"
+  english_cognate: "include"
 
 - index: 190
-  french: réduire
+  french: "réduire"
   english: "to reduce"
-  latin: reduco
-  english_cognate: reduce
+  latin: "reduco"
+  english_cognate: "reduce"
 
 - index: 191
-  french: attirer
+  french: "attirer"
   english: "to attract; to draw"
   latin: "attero? (folk); real origin from *ad* + Germanic *tirare*"
-  english_cognate: attract (semantic only)
+  english_cognate: "attract (semantic only)"
 
 - index: 192
-  french: empêcher
+  french: "empêcher"
   english: "to prevent; to stop"
-  latin: impedio
-  english_cognate: impede
+  latin: "impedio"
+  english_cognate: "impede"
 
 - index: 193
-  french: défendre
+  french: "défendre"
   english: "to defend; to forbid"
-  latin: defendo
-  english_cognate: defend
+  latin: "defendo"
+  english_cognate: "defend"
 
 - index: 194
-  french: pratiquer
+  french: "pratiquer"
   english: "to practice"
-  latin: practico (Medieval Latin)
-  english_cognate: practice
+  latin: "practico (Medieval Latin)"
+  english_cognate: "practice"
 
 - index: 195
-  french: admettre
+  french: "admettre"
   english: "to admit"
-  latin: admitto
-  english_cognate: admit
+  latin: "admitto"
+  english_cognate: "admit"
 
 - index: 196
-  french: disparaître
+  french: "disparaître"
   english: "to disappear"
   latin: "disparere? (folk), root: *dis-* + *parere* (to appear)"
-  english_cognate: disappear
+  english_cognate: "disappear"
 
 - index: 197
-  french: baisser
+  french: "baisser"
   english: "to lower; to reduce"
-  latin: bassus
-  english_cognate: bass (related root)
+  latin: "bassus"
+  english_cognate: "bass (related root)"
 
 - index: 198
-  french: suggérer
+  french: "suggérer"
   english: "to suggest"
-  latin: suggero
-  english_cognate: suggest
+  latin: "suggero"
+  english_cognate: "suggest"
 
 - index: 199
-  french: remplir
+  french: "remplir"
   english: "to fill"
-  latin: repleo
-  english_cognate: replete
+  latin: "repleo"
+  english_cognate: "replete"
 
 - index: 200
-  french: transformer
+  french: "transformer"
   english: "to transform; to change"
-  latin: transformo
-  english_cognate: transform
+  latin: "transformo"
+  english_cognate: "transform"
