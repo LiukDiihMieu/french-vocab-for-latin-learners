@@ -547,14 +547,14 @@
 - index: 92
   french: avancer
   english: "to advance; to move forward"
-  latin: abantio? (actual origin: Vulgar Latin *abante*)
+  latin: "abantio? (actual origin: Vulgar Latin *abante*)"
   english_cognate: advance
 
 - index: 93
   french: revenir
   english: "to return; to come back"
   latin: revenio
-  english_cognate: revenue (from *venio*)
+  english_cognate: "revenue (from *venio*)"
 
 - index: 94
   french: dégager
@@ -565,7 +565,7 @@
 - index: 95
   french: garder
   english: "to keep; to guard"
-  latin: guardo? (actually Germanic *wardon*)
+  latin: "guardo? (actually Germanic *wardon*)"
   english_cognate: guard, ward
 
 - index: 96
@@ -751,7 +751,7 @@
 - index: 126
   french: saisir
   english: "to seize; to grasp"
-  latin: satiare? (disputed; likely Germanic *seisan*)
+  latin: "satiare? (disputed; likely Germanic *seisan*)"
   english_cognate: seize
 
 - index: 127
@@ -781,7 +781,7 @@
 - index: 131
   french: projeter
   english: "to project; to plan"
-  latin: proicio (root of *project*)
+  latin: "proicio (root of *project*)"
   english_cognate: project
 
 - index: 132
@@ -805,14 +805,14 @@
 - index: 135
   french: organiser
   english: "to organize"
-  latin: organiso (from Greek *organon*)
+  latin: "organiso (from Greek *organon*)"
   english_cognate: organize
 
 - index: 136
   french: revenir
   english: "to come back"
   latin: revenio
-  english_cognate: revenue (same *venio* root)
+  english_cognate: "revenue (same *venio* root)"
 
 - index: 137
   french: cuisiner
@@ -859,7 +859,7 @@
 - index: 144
   french: garder
   english: "to keep; to guard"
-  latin: (Germanic *wardon*)
+  latin: "(Germanic *wardon*)"
   english_cognate: guard, ward
 
 - index: 145
@@ -907,7 +907,7 @@
 - index: 152
   french: assurer
   english: "to assure; to insure"
-  latin: securus (root of *sure*)
+  latin: "securus (root of *sure*)"
   english_cognate: assure, insure
 
 - index: 153
@@ -943,7 +943,7 @@
 - index: 158
   french: rentrer
   english: "to re-enter; to go back home"
-  latin: intro (root), *re-* + enter
+  latin: "intro (root), *re-* + enter"
   english_cognate: re-enter, enter
 
 - index: 159
@@ -955,7 +955,7 @@
 - index: 160
   french: ajouter
   english: "to add"
-  latin: adiuto? (folk), actual origin Romance *adiuctare*
+  latin: "adiuto? (folk), actual origin Romance *adiuctare*"
   english_cognate: add (semantic)
 
 - index: 161
@@ -979,7 +979,7 @@
 - index: 164
   french: voyager
   english: "to travel"
-  latin: viatico? (folk), Romance root *viaticare*
+  latin: "viatico? (folk), Romance root *viaticare*"
   english_cognate: voyage
 
 - index: 165
@@ -1003,7 +1003,7 @@
 - index: 168
   french: remarquer
   english: "to notice; to remark"
-  latin: remarko? (Romance), Latin root *marco*
+  latin: "remarko? (Romance), Latin root *marco*"
   english_cognate: remark
 
 - index: 169
@@ -1045,7 +1045,7 @@
 - index: 175
   french: rappeler
   english: "to call back; to remind"
-  latin: repello? (folk), true origin from *re-* + *appellare*
+  latin: "repello? (folk), true origin from *re-* + *appellare*"
   english_cognate: recall, rappel (loan)
 
 - index: 176
@@ -1141,7 +1141,7 @@
 - index: 191
   french: attirer
   english: "to attract; to draw"
-  latin: attero? (folk); real origin from *ad* + Germanic *tirare*
+  latin: "attero? (folk); real origin from *ad* + Germanic *tirare*"
   english_cognate: attract (semantic only)
 
 - index: 192
@@ -1171,7 +1171,7 @@
 - index: 196
   french: disparaître
   english: "to disappear"
-  latin: disparere? (folk), root: *dis-* + *parere* (“to appear”)
+  latin: "disparere? (folk), root: *dis-* + *parere* (to appear)"
   english_cognate: disappear
 
 - index: 197
